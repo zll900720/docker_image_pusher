@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 xhofe/alist:v3.35.0
+
+bygc612/hsk_ddns:latest
