@@ -8,3 +8,5 @@ xhofe/alist:latest
 xhofe/alist:v3.35.0
 
 bygc612/hsk_ddns:latest
+
+openwrtorg/sdk:15.05-ramips-mt76x8
