@@ -18,3 +18,5 @@ quay.io/debezium/kafka:3.1
 quay.io/debezium/example-mysql:3.1
 
 quay.io/debezium/connect:3.1
+
+postgres:16.4
