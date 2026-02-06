@@ -12,3 +12,9 @@ bygc612/hsk_ddns:latest
 emqx/emqx-enterprise:6.1.0
 
 quay.io/debezium/zookeeper:3.1
+
+quay.io/debezium/kafka:3.1
+
+quay.io/debezium/example-mysql:3.1
+
+quay.io/debezium/connect:3.1
